@@ -1,2 +1,2 @@
-string s = rei;
+String s = rei;
 int a = 1;
